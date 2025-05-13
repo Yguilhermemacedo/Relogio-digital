@@ -21,7 +21,7 @@ Esse projeto me ajudou a:
 
 ## 💻 Demonstração
 
-[🔗 Acesse o projeto online](https://yguilhermemacedo.github.io/relogio-digital/)  
+[🔗 Acesse o projeto](https://yguilhermemacedo.github.io/Relogio-digital/)  
 
 
 ![Preview do projeto](relogio-digital.png)  
